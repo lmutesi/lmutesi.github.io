@@ -15,6 +15,7 @@
 		<open>11am</open>
 		<close>8pm</close>
 	</restaurant>
+    <restaurant>
 		<id>2</id>
 		<name>The Butcher's Son</name>
 		<cuisine>American<cuisine>
